@@ -1,0 +1,53 @@
+      * {
+      position: relative;
+      }
+
+      header {
+      background-color: #FC3AB0;
+      height: 100px;
+      width: 100vw;
+      }
+
+      .nav-link {
+      color: white;
+      font-weight: bold;
+      padding: 40px;
+      }
+
+      .nav-link:hover {
+      color: pink;
+      }
+
+      navbar-brand {
+      color: white,
+      }
+
+      h1 {
+      margin-left: 200px;
+      }
+
+      .linke Seite {
+      padding: 40px;
+      color: black;
+      }
+
+      .Hellgrau {
+      color: light gray;
+      }
+
+      .Rosa {
+      color: #FC3AB0;
+      }
+
+      .Rosa: hover {
+      color: pink;
+      }
+
+      footer {
+      font-size: 16px;
+      color: #FC3AB0;
+      background-color: yellow;
+      padding: 40 px;
+      height: 50 px;
+      width: 100vw;
+      }
